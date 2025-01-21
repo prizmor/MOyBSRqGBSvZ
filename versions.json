@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "versions": {
+        "windows": "MarlinChatInstaller-1.0.0.exe",
+        "linux": "MarlinChatInstaller-1.0.0.deb",
+        "macos": "MarlinChatInstaller-1.0.0.dmg"
+    }
+}
